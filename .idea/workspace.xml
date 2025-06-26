@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e448095b-7bb6-4477-b6ac-a66b7cced077" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/um_library_management_system/UM_LIBRARY_MANAGEMENT_SYSTEM.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/um_library_management_system/UM_LIBRARY_MANAGEMENT_SYSTEM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/um_library_management_system/fxmlPlantform.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/um_library_management_system/fxmlPlantform.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/nblibraries.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nblibraries.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/mysql-connector-j-9.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/um_library_management_system/UM_LIBRARY_MANAGEMENT_SYSTEM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/um_library_management_system/UM_LIBRARY_MANAGEMENT_SYSTEM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/um_library_management_system/fxmlPlantform.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/um_library_management_system/fxmlPlantform.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2z23kAke5VRErT3cj2I7KecCcfC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.UM_LIBRARY_MANAGEMENT_SYSTEM.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e448095b-7bb6-4477-b6ac-a66b7cced077" name="Changes" comment="" />
+      <created>1750915482259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750915482259</updated>
+      <workItem from="1750915484487" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
