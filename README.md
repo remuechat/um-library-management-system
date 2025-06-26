@@ -11,3 +11,4 @@
     - SQL-CONFIGURATION is used for *backend* stuff, like MySQL, JavaFX x JBDC integration and such
     - JAVAFX-FRONTEND is used for *frontend* stuff that includes editing the structure of the app's XML
     - JAVAFX-CSS is used for editing the *frontend design* of the entire app 
+Use the trial-jenn branch for now! Fixing branches underway for now 🙏
