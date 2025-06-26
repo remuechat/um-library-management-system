@@ -21,7 +21,6 @@ public class UM_LIBRARY_MANAGEMENT_SYSTEM extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("fxmlPlantform.fxml"));
         
         Scene scene = new Scene(root);
-        scene.getStylesheets().add(getClass().getResource("styles.css").toExternalForm()); // force CSS mounting
         
         stage.setScene(scene);
         stage.show();

@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.layout.AnchorPane?>
-<?import javafx.scene.layout.StackPane?>
-<?import javafx.scene.text.Text?>
 
-<AnchorPane id="AnchorPane" prefHeight="321.0" prefWidth="460.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="um_library_management_system.fxmlPlantformController">
+<AnchorPane id="AnchorPane" prefHeight="321.0" prefWidth="460.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/23.0.1" fx:controller="um_library_management_system.fxmlPlantformController">
     <children>
-        <Button fx:id="button" layoutX="192.0" layoutY="95.0" onAction="#handleButtonAction" prefHeight="25.0" prefWidth="77.0" text="Click Me!" />
+        <Button fx:id="button" layoutX="126" layoutY="90" onAction="#handleButtonAction" text="Click Me!" />
         <Label fx:id="label" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
-      <StackPane layoutX="121.0" layoutY="29.0" prefHeight="32.0" prefWidth="218.0">
-         <children>
-              <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="subtitle" text="Library Management System" wrappingWidth="155.0" />
-              <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="title" text="UNIVERSITY OF MINDANAO" wrappingWidth="154.0">
-               <StackPane.margin>
-                  <Insets bottom="36.0" />
-               </StackPane.margin>
-            </Text>
-         </children>
-      </StackPane>
     </children>
 </AnchorPane>

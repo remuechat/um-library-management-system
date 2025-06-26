@@ -22,7 +22,7 @@ public class fxmlPlantformController implements Initializable {
     
     @FXML
     private void handleButtonAction(ActionEvent event) {
-        System.out.println("Skibidi clicked me!");
+        System.out.println("You clicked me!");
         label.setText("Hello World!");
     }
     
